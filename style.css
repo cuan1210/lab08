@@ -1,0 +1,27 @@
+h5{
+    opacity: 0.2;
+}
+
+.hiep{
+    color: brown;
+}
+.abc, .def{
+    background: pink;
+}
+
+.aaa{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+    font-style: italic;
+    font-weight: 100;
+}
+.bbb{
+    text-align: center;
+    line-height: 200px;
+    letter-spacing: 5px;
+    word-spacing: 10px;
+}
+a{
+    text-decoration: none;
+    text-shadow: 5px 10px 5px red;
+}
